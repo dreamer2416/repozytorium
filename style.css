@@ -1,0 +1,32 @@
+body {
+	background-image: url("518164-backgrounds.jpg");
+}
+
+h1 {
+	color: #81d119;
+}
+
+ table {
+                border: 3px solid green;
+                border-collapse: collapse;
+                width: 50%;
+            }
+
+th, td {
+                border: 1px solid green;
+                color: black;
+                text-align: center;
+            }
+th {
+    background-color: #efe088;
+}
+
+ p {
+ 	color: black
+ }
+ ol {
+ 	color: #0b8ae5;
+ }
+ ul {
+ 	color: #0b8ae5;
+ }
