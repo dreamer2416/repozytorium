@@ -1,9 +1,25 @@
+html {
+    margin: 0;
+    padding: 4px;
+}
 body {
-	background-image: url("518164-backgrounds.jpg");
+	background-image: url("fghdfhgdfgf.jpg");
+    padding: 11px;
+    margin: 0px;
 }
 
 h1 {
-	color: #81d119;
+    color: #2c2d28;
+    padding: 15px 5 15px 5;
+}
+h1 span {
+    padding: 9px;
+}
+h2 {
+	color: #2c2d28;
+}
+h3 {
+    color: white;
 }
 
  table {
@@ -20,13 +36,17 @@ th, td {
 th {
     background-color: #efe088;
 }
-
- p {
- 	color: black
- }
- ol {
- 	color: #0b8ae5;
- }
  ul {
- 	color: #0b8ae5;
+ 	color: white;
  }
+ .sekcja {
+    font-family: Handlee, cursive;
+    font-size: 14px;
+}
+.dupamaryna {
+    font-size: 25px;
+    color: black;
+}
+.dupamaryna span {
+    background-color: red
+}
